@@ -1,0 +1,3 @@
+javac mp4/IndentChecker.java
+
+java mp4.IndentChecker mp4/properlyIndented.txt mp4/properlyIndented2.txt mp4/notIndentedProperly.txt mp4/notIndentedProperly2.txt mp4/notIndentedProperly3.txt
